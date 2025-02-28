@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" align="center" style="width: 100%" />
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -45,4 +45,4 @@
 <br />
 
 ----
-<h1>🚀 On a journey to code, create, and innovate! </h1>
+<h3>🚀 On a journey to code, create, and innovate! </h3>
