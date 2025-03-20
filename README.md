@@ -41,8 +41,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+![YashBarbole's Stats](https://github-readme-stats.vercel.app/api?username=YashBarbole&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ----
 <h3>🚀 On a journey to code, create, and innovate! </h3>
