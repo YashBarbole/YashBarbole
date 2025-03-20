@@ -43,5 +43,7 @@
 ## Github Stats  
 ![YashBarbole's Stats](https://github-readme-stats.vercel.app/api?username=YashBarbole&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![YashBarbole's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ----
 <h3>🚀 On a journey to code, create, and innovate! </h3>
