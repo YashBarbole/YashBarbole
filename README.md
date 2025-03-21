@@ -47,4 +47,4 @@
 
 
 ----
-<h3>🚀 On a journey to code, create, and innovate! </h3>
+<h3>Debugging with printf? No thanks, I enjoy the thrill of unexpected crashes</h3>
