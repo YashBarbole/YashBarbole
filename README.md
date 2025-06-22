@@ -47,4 +47,4 @@
 
 
 ----
-<h3>Debugging with printf? No thanks, I enjoy the thrill of unexpected crashes</h3>
+
