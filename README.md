@@ -1,6 +1,7 @@
 <div align="center">
   
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Heyy!+I'm+Yashraj+Barbole;Full-Stack+Dev+%7C+Problem+Solver+%7C+Tech+Explorer)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FACC15&center=true&vCenter=true&width=500&lines=Yash+Barbole;Full-Stack+Developer;Tech+Builder+%26+Explorer)
+
 
 <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="400" />
 
