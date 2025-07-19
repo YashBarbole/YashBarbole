@@ -1,7 +1,6 @@
 <div align="center">
 ![typing](https://readme-typing-svg.demolab.com?font=Anton&pause=500&color=FACC15&center=true&vCenter=true&width=700&lines=Yash+Barbole;Full-Stack+Developer;Tech+Builder+%26+Explorer)
-
-
+ 
 
 
 <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="400" />
