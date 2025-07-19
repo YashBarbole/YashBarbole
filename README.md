@@ -89,7 +89,8 @@
 
 ## 💬 Quote I Live By
 
-> “First, solve the problem. Then, write the code.” — *John Johnson*
+> "Programming isn't about what you know; it's about what you can figure out."
+— Chris Pine
 
 ---
 
