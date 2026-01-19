@@ -26,7 +26,11 @@
 🎯 Tech Stack
 <div align="center">
 🧠 Programming & Scripting
-<p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 🌐 Frontend
 <p> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Shadcn%2FUI-4B5563?style=flat-square"/> </p>
 🔙 Backend & Database
