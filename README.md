@@ -68,30 +68,16 @@
 ---
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    height="190"
     alt="GitHub Stats"
   />
 
-  <!-- Most Used Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+    height="190"
     alt="Top Languages"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YashBarbole&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
   />
 
 </div>
