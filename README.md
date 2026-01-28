@@ -66,24 +66,36 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats & Streak 🔥
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <!-- Overall GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBarbole&theme=tokyonight&hide_border=true"/>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YashBarbole&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </div>
 
----
 
 ## 📫 Connect With Me
 
