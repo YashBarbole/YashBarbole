@@ -12,7 +12,6 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 ENTC undergraduate with strong Computer Science fundamentals  
-- 🔍 Full-Stack Developer exploring frontend & backend systems  
 - 🧩 Passionate about solving real-world problems with clean, scalable code  
 - ⚙ Tech enthusiast driven by logic, creativity & caffeine ☕  
 - 💡 Always learning, always building  
@@ -24,23 +23,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-<h3>📬 Reach me out</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/yash-barbole-a2901325a/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href="https://instagram.com/yash_barbole" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a>
-<a href="https://github.com/YashBarbole" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-</p>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
 
 ## 💻 Tech Stack
 
@@ -92,6 +74,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&hide_border=true&theme=transparent" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&hide_border=true&theme=transparent" height="180"/>
 </div>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+<h3>📬 Reach me out</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/yash-barbole-a2901325a/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://instagram.com/yash_barbole" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href="https://github.com/YashBarbole" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
