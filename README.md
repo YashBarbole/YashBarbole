@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Yash Barbole</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Aspiring  Full-Stack Developer based in Pune</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -17,7 +17,7 @@
 - ⚙ Tech enthusiast driven by logic, creativity & caffeine ☕  
 - 💡 Always learning, always building  
 
-- 👨‍💻 Know me more: <a href="https://yashbarbole.github.io/" target="_blank">Portfolio</a>  
+- 👨‍💻 Know me more: <a href="https://yashrajbarbole-portfolio.netlify.app/" target="_blank">Portfolio</a>  
 - 📝 Reach out: <a href="mailto:yashbarbole7110@gmail.com">Email</a>
 
 <p align="left">
@@ -74,15 +74,17 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-## 🧠 LeetCode (Problems Solved)
+## 🧠 LeetCode 
 
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=YashBarbole&theme=dark&animated=true" />
+
+  <img 
+    src="https://leetcard.jacoblin.cool/YashBarbole?theme=dark&font=Inter&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+
 </div>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
 
 ## 📊 GitHub Stats
 
@@ -97,4 +99,10 @@
 
 ## ✍️ Quote I Live By
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
+
+
+
+
+
+
