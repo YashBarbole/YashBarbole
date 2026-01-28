@@ -6,7 +6,6 @@
 
 </div>
 
-
 ---
 
 <p align="center">
@@ -17,29 +16,72 @@
 
 ## 🚀 About Me
 
-- 🔍 Full-Stack Developer — exploring the depths of both frontend & backend.  
-- 🧩 Passionate about solving real-world problems through clean code.  
-- ⚙ Tech enthusiast thriving on logic, creativity, and caffeine ☕.  
-- 💡 Always learning, always building.
+- 🔍 Full-Stack Developer exploring frontend & backend systems  
+- 🧩 Passionate about solving real-world problems with clean, scalable code  
+- ⚙ Tech enthusiast thriving on logic, creativity & caffeine ☕  
+- 💡 Always learning, always building
 
 ---
-🎯 Tech Stack
+
+## 🎯 Tech Stack
+
 <div align="center">
-🧠 Programming & Scripting
+
+### 🧠 Programming & Scripting
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
-🌐 Frontend
-<p> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Shadcn%2FUI-4B5563?style=flat-square"/> </p>
-🔙 Backend & Database
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/> <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/> </p>
-☁️ Cloud & DevOps
-<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> </p>
-⚙️ Tools
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/> </p> </div>
 
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-4B5563?style=flat-square"/>
+</p>
+
+### 🔙 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Streak 🔥
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBarbole&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
@@ -61,10 +103,5 @@
 
 ## 💬 Quote I Live By
 
-> "Programming isn't about what you know; it's about what you can figure out."
+> "Programming isn't about what you know; it's about what you can figure out."  
 — Chris Pine
-
----
-
-<!-- Optional: Add streak stats -->
-<!-- ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YashBarbole&theme=radical&hide_border=true) -->
