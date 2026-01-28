@@ -1,109 +1,100 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=38&pause=500&color=FACC15&center=true&vCenter=true&width=800&lines=Yash+Barbole;Full-Stack+Developer;Tech+Builder+%26+Explorer" alt="Typing SVG" />
-
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="400" />
-
+  <img width="400" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding">
 </div>
 
----
+<h1 align="center">Hi, I'm Yash Barbole</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code_with_Passion-%23F7CE68?style=for-the-badge&logo=codeforces&logoColor=black"/>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
----
+## 🙋‍♂️ About Me
 
-## 🚀 About Me
-
+- 👨‍🎓 ENTC undergraduate with strong Computer Science fundamentals  
 - 🔍 Full-Stack Developer exploring frontend & backend systems  
 - 🧩 Passionate about solving real-world problems with clean, scalable code  
-- ⚙ Tech enthusiast thriving on logic, creativity & caffeine ☕  
+- ⚙ Tech enthusiast driven by logic, creativity & caffeine ☕  
 - 💡 Always learning, always building  
 
----
+- 👨‍💻 Know me more: <a href="https://yashbarbole.github.io/" target="_blank">Portfolio</a>  
+- 📝 Reach out: <a href="mailto:yashbarbole7110@gmail.com">Email</a>
 
-## 🎯 Tech Stack
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+<h3>📬 Reach me out</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/yash-barbole-a2901325a/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://instagram.com/yash_barbole" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href="https://github.com/YashBarbole" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+</p>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+## 💻 Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+## 🧠 LeetCode (Problems Solved)
 
 <div align="center">
-
-### 🧠 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-4B5563?style=flat-square"/>
-</p>
-
-### 🔙 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
-</p>
-
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=YashBarbole&theme=dark&animated=true" />
 </div>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&theme=tokyonight&hide_border=true"
-    height="190"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&theme=tokyonight&hide_border=true"
-    height="190"
-    alt="Top Languages"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&hide_border=true&theme=transparent" height="180"/>
 </div>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
 
-## 📫 Connect With Me
+## ✍️ Quote I Live By
 
-<div align="center">
-  <a href="https://github.com/YashBarbole" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-barbole-a2901325a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yash_barbole" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💬 Quote I Live By
-
-> "Programming isn't about what you know; it's about what you can figure out."  
-— Chris Pine
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
