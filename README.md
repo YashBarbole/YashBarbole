@@ -19,7 +19,7 @@
 - 🔍 Full-Stack Developer exploring frontend & backend systems  
 - 🧩 Passionate about solving real-world problems with clean, scalable code  
 - ⚙ Tech enthusiast thriving on logic, creativity & caffeine ☕  
-- 💡 Always learning, always building
+- 💡 Always learning, always building  
 
 ---
 
@@ -66,6 +66,9 @@
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
   <img
@@ -82,6 +85,7 @@
 
 </div>
 
+---
 
 ## 📫 Connect With Me
 
