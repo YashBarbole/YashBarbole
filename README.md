@@ -68,17 +68,6 @@
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBarbole&show_icons=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBarbole&layout=compact&hide_border=true&theme=transparent" height="180"/>
-</div>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
 <h3>📬 Reach me out</h3>
 
 <p align="left">
